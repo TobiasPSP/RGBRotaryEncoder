@@ -4,7 +4,7 @@ Rotary encoders are highly useful as input device, i.e. to control a menu system
 
 > [Rotary Encoders](https://en.wikipedia.org/wiki/Rotary_switch) look similar to classic [potentiometers](https://en.wikipedia.org/wiki/Potentiometer) but they work completely different: the knob can be turned in both directions endlessly. Each rotation sends an impulse that can be received and interpreted by a microcontroller. While a potentiometer changes resistance in a given range, a Rotary Encoder is a simple input device that registers increments and decrements.
 
-In this repo, I am discussing a special Rotary Encoder from [duppa.net](https://www.duppa.net/shop/i2cencoder-v2-1-with-soldered-accessory/) (I am not affiliated in any way). It is a highly flexible ready-to-use solution and takes care of most things that typically makes using Rotary Encoders unpleasant (debouncing, GPIO resources, responding to user input, etc.). Given its relatively small price tag, using it instead of plain vanilla Rotary Encoders seems like a no-brainer to me.
+In this repo, I am discussing a special Rotary Encoder from [duppa.net](https://www.duppa.net/shop/i2cencoder-v2-1-with-soldered-accessory/) (I am not affiliated with them in any way). It is a highly flexible ready-to-use solution and takes care of most things that typically makes using Rotary Encoders unpleasant (debouncing, GPIO resources, responding to user input, etc.). Given its relatively small price tag, using it instead of plain vanilla Rotary Encoders seems like a no-brainer to me.
 
 Here is what distinguishes this particular Rotary Encoder from plain vanilla Rotary Encoders, and why I found that important:
 
